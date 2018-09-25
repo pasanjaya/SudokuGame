@@ -12,3 +12,4 @@ Any column contains more than one of the same number from 1 to 9 _______________
 
 Any 3×3 grid contains more than one of the same number from 1 to 9 ________________ OK
 ~~~
+
